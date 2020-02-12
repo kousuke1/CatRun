@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Coin
   - Goal
+  - Brock
+  - Stage
   layers:
   - Default
   - TransparentFX

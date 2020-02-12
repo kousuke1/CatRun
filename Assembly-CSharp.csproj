@@ -47,6 +47,7 @@
   <ItemGroup>
      <Compile Include="Assets\CyberPunk\Scripts\Done_BGScroller.cs" />
      <Compile Include="Assets\CyberPunk\Scripts\Perspective2DSortMode.cs" />
+     <Compile Include="Assets\Scripts\BrockScripts.cs" />
      <Compile Include="Assets\Scripts\CoinScripts.cs" />
      <Compile Include="Assets\Scripts\FloorScripts.cs" />
      <Compile Include="Assets\Scripts\GoalScripts.cs" />

@@ -12,14 +12,15 @@ public class ResultScripts : MonoBehaviour
         
          int  result = PointScripts.Point;
         Debug.Log(result);
+               Text resulttext = PointText.GetComponent<Text> ();
+       resulttext.text ="Score:" + result;
          
     }
 
     // Update is called once per frame
     void Update()
     {
-       Text resulttext = PointText.GetComponent<Text> ();
-       resulttext.Text = "Score:" + result;
+;
 
      
      

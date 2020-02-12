@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class FloorScripts : MonoBehaviour
 {
-    public float speed = 15.0f;
    
     // Start is called before the first frame update
     void Start()
@@ -16,10 +15,8 @@ public class FloorScripts : MonoBehaviour
     void Update()
     {
     
-     Vector2 Position = transform.position;
+     
 
-        
-       transform.position -= transform.right * speed * Time.deltaTime;
     }
 
 }
