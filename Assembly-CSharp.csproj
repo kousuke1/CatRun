@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{A4290B59-732C-CE70-FF0B-B397594A6D0B}</ProjectGuid>
+    <ProjectGuid>{1826E2E5-4819-7A91-7710-37FC331F1137}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -50,43 +50,46 @@
      <Compile Include="Assets\Scripts\BrockScripts.cs" />
      <Compile Include="Assets\Scripts\CoinScripts.cs" />
      <Compile Include="Assets\Scripts\FloorScripts.cs" />
+     <Compile Include="Assets\Scripts\Goal2.cs" />
      <Compile Include="Assets\Scripts\GoalScripts.cs" />
+     <Compile Include="Assets\Scripts\NextScripts.cs" />
      <Compile Include="Assets\Scripts\PlayerScripts.cs" />
      <Compile Include="Assets\Scripts\PointScripts.cs" />
      <Compile Include="Assets\Scripts\ResultScripts.cs" />
      <Compile Include="Assets\Scripts\RunAnimate.cs" />
+     <Compile Include="Assets\Scripts\StartScripts.cs" />
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>C:/Users/barus/Desktop/Cats&apos;Run/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>C:/Users/barus/Desktop/Cat&apos;sRun/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>C:/Users/barus/Desktop/Cats&apos;Run/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>C:/Users/barus/Desktop/Cat&apos;sRun/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/barus/Desktop/Cats&apos;Run/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/barus/Desktop/Cat&apos;sRun/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>C:/Users/barus/Desktop/Cats&apos;Run/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>C:/Users/barus/Desktop/Cat&apos;sRun/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>C:/Users/barus/Desktop/Cats&apos;Run/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>C:/Users/barus/Desktop/Cat&apos;sRun/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>C:/Users/barus/Desktop/Cats&apos;Run/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>C:/Users/barus/Desktop/Cat&apos;sRun/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>C:/Users/barus/Desktop/Cats&apos;Run/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>C:/Users/barus/Desktop/Cat&apos;sRun/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Sprite.Editor">
- <HintPath>C:/Users/barus/Desktop/Cats&apos;Run/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+ <HintPath>C:/Users/barus/Desktop/Cat&apos;sRun/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Tilemap.Editor">
- <HintPath>C:/Users/barus/Desktop/Cats&apos;Run/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+ <HintPath>C:/Users/barus/Desktop/Cat&apos;sRun/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/barus/Desktop/Cats&apos;Run/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/barus/Desktop/Cat&apos;sRun/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>C:/Users/barus/Desktop/Cats&apos;Run/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>C:/Users/barus/Desktop/Cat&apos;sRun/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.17f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>

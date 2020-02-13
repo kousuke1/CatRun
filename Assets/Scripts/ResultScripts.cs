@@ -11,7 +11,7 @@ public class ResultScripts : MonoBehaviour
     {
         
          int  result = PointScripts.Point;
-        Debug.Log(result);
+        //Debug.Log(result);
                Text resulttext = PointText.GetComponent<Text> ();
        resulttext.text ="Score:" + result;
          
