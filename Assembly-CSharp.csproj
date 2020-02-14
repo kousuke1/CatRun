@@ -49,12 +49,13 @@
      <Compile Include="Assets\CyberPunk\Scripts\Perspective2DSortMode.cs" />
      <Compile Include="Assets\Scripts\BrockScripts.cs" />
      <Compile Include="Assets\Scripts\CoinScripts.cs" />
-     <Compile Include="Assets\Scripts\FloorScripts.cs" />
      <Compile Include="Assets\Scripts\Goal2.cs" />
      <Compile Include="Assets\Scripts\GoalScripts.cs" />
      <Compile Include="Assets\Scripts\NextScripts.cs" />
+     <Compile Include="Assets\Scripts\PintVewScripts.cs" />
      <Compile Include="Assets\Scripts\PlayerScripts.cs" />
      <Compile Include="Assets\Scripts\PointScripts.cs" />
+     <Compile Include="Assets\Scripts\PointVewScripts.cs" />
      <Compile Include="Assets\Scripts\ResultScripts.cs" />
      <Compile Include="Assets\Scripts\RunAnimate.cs" />
      <Compile Include="Assets\Scripts\StartScripts.cs" />

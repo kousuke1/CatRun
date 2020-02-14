@@ -15,10 +15,10 @@ public class StartScripts : MonoBehaviour
     {
         
     }
-           public void OnClick(){
+    public void OnClick(){
+        
        Debug.Log("stat!");
-
-            SceneManager.LoadScene("main");
+       SceneManager.LoadScene("main");
 
     }
 }

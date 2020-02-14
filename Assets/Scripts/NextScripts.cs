@@ -18,8 +18,10 @@ public class NextScripts : MonoBehaviour
         
     }
    public void OnClick(){
-       int points = PointScripts.Point;
-       Debug.Log(points);
+
+    int points = PointScripts.Point;
+    Debug.Log(points);
+    
         if(points >= 10){
             SceneManager.LoadScene("2");
         }else{
